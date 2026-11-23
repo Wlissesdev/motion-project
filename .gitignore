@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Quadros e vídeos renderizados (pesados)
+frames/
+preview_frames/
+*.mp4
+
+# Temporários
+*.log
+.DS_Store
+Thumbs.db
